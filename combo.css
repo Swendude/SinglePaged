@@ -3,3 +3,32 @@
 {% include css/base.css %}
 {% include css/skeleton.css %}
 {% include css/main.css %}
+
+.logoimg {
+    width: 20%;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+#cta {
+    display: block;
+    text-align: center;
+    border: none;
+    border: none;
+    border-radius: 0.2em;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    display: inline-block;
+    font-size: 2em;
+    padding: 1em 2em;
+    width: auto;
+    background-color: #e24e42;
+    color: white !important;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 10em;
+}

@@ -34,6 +34,7 @@ colors:
   turquoise: '#0fbfcf'
   lred:      '#e24e42'
   lyellow:   '#e9b000'
+  llyellow:  '#FBFFBF'
   hfgrey:    '#444'
 
 kramdown:
