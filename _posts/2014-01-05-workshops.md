@@ -24,7 +24,7 @@ Door gebruik te maken van LOGO, de originele programmeertaal voor kinderen krijg
 ## Ronde 2
 <hr>
 ### Leer programmeren met Scratch Junior in de onderbouw
-Na de masterclass heeft u uw rugzak gevuld met kennis over programmeren in de onderbouw waarbij het digitale schoolbord nadrukkelijk wordt ingezet. 
+Na ​de workshop over het programma Scratch Junior is uw rugzak gevuld met de nodige informatie over programmeren in de onderbouw. Je leert hoe het digitale schoolbord nadrukkelijk ingezet kan worden en op welke manier leerlingen digitale geletterdheid ontwikkelen.
 
 <br>
 ### De toegevoegde waarde van mini robots in het onderwijs!
